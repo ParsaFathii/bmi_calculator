@@ -1,16 +1,49 @@
 # bmi_calculator
 
-BMI Calculator
+![flutter-bmi-calculator](https://github.com/user-attachments/assets/7de12b44-1e7b-4db2-a785-03af47595538)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Flutter BMI Calculator
 
-A few resources to get you started if this is your first Flutter project:
+A beautiful BMI calculator app. Developed using Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Library Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Material
+- Dart Math
+- FontAwesome
+
+### Widgets / Classes Used
+
+- StatefulWidget
+- Scaffold
+- AppBar
+- Text
+- TextStyle
+- SafeArea
+- Padding
+- Column
+- Row
+- Colors
+- Color
+- Expanded
+- FlatButton
+- Center
+- Icon
+- Alert
+- AlertStyle
+- DialogButton
+
+### Concepts Used
+
+- Object Oriented Programming
+- Class
+- Property
+- Constructor
+- Method
+- Abstraction
+- Inheritance
+- Encapsulation
+- Polymorphism
+- List
+- Conditional
